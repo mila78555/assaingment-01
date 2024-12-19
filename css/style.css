@@ -1,0 +1,14 @@
+.header {
+    position: absolute;
+    top: 08%;
+    text-align: center;
+    left: 09%;
+    transform: translate(50-50);
+    color: white;
+    text-shadow: 5px 2px 5px rgba(0, 0, 0, 0, 200);
+}
+
+.header section {
+    display: block;
+    margin: auto;
+}
